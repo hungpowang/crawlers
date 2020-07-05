@@ -1,6 +1,6 @@
 from selenium.webdriver import Chrome
 import time
-import os
+#import os
 
 driver = Chrome("./chromedriver")
 
